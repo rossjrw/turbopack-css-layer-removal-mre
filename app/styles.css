@@ -1,0 +1,5 @@
+@layer test1;
+
+@import url("https://example.com/test1.css") layer(test1);
+
+

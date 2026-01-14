@@ -1,0 +1,10 @@
+{
+  "name": "turbopack-css-layer-test",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^16.1.1"
+  }
+}
